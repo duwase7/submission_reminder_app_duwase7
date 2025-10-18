@@ -14,7 +14,7 @@ Terminal access
 **Clone the repository:**
 
 git clone https://github.com/duwase7/submission_reminder_app_duwase7.git
-cd submission_reminder_app_n-elie7
+cd submission_reminder_app_duwase7
 
 
 **Run the setup script:**
