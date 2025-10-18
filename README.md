@@ -13,7 +13,7 @@ Terminal access
 
 **Clone the repository:**
 
-git clone https://github.com/n-elie7/submission_reminder_app_n-elie7.git
+git clone https://github.com/duwase7/submission_reminder_app_duwase7.git
 cd submission_reminder_app_n-elie7
 
 
